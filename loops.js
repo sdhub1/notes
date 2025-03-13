@@ -11,6 +11,7 @@ console.log(arr[2]);
 
 let a=2
 a=a+1;
+// a+=1; (short for a=a+1)
 // a--
 console.log(a);
 
